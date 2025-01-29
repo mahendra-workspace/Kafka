@@ -1,4 +1,7 @@
 # Kafka
+**What is kafka**
+- Kafka is a open-source distribute event streaming platfrom. which mean it creates real time stream and process real time stream.
+- Sending the stream of continuous data to the kafka server is called creating or generating real time event stream of data
 1. **Kafka Cluster**
    - A Kafka cluster is a distributed system or group of one or more Kafka brokers (servers)
    - **Components of a Kafka Cluster:**
